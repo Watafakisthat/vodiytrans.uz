@@ -1,0 +1,6 @@
+{
+  "name": "VODIYTRANS.UZ — Rasmiy axborot platformasi va raqamli matbuot markazi",
+  "description": "VODIY MAXSUS SANITAR TRANS MCHJ rasmiy axborot platformasi, yangiliklar xonasi, amalga oshirilgan ishlar va murojaatlar ijrosi raqamli arxivi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
